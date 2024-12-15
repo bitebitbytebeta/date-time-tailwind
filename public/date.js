@@ -13,7 +13,7 @@ const allTheMonths = [
     "September",
     "Oct",
     "November",
-    "December"
+    "December❄️"
   ];
   const allTheDays = [
     "Sunday",
